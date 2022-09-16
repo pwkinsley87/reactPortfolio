@@ -1,0 +1,26 @@
+.about {
+    border: 2px solid cornflowerblue;
+    border-radius: 15px;
+    padding: 10
+};
+
+.about-text-container {
+    margin-bottom: 40px;
+    margin-top: 200px;
+};
+
+.about-me-text {
+    font-size: 14px;
+    padding: 0 20 20 10;
+
+};
+
+#profile {
+    border-radius: 100%;
+};
+
+@media only screen and (min-width: 768px) {
+    .about-container{
+        margin-top: 420px
+    }
+}
